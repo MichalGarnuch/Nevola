@@ -1,0 +1,460 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|c:\\visual studio\\nevola\\reactappnevola\\reactappnevola.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|solutionrelative:reactappnevola.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|c:\\visual studio\\nevola\\reactappnevola\\reactappnevola.client\\src\\page\\logowaniepage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|solutionrelative:reactappnevola.client\\src\\page\\logowaniepage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|c:\\visual studio\\nevola\\reactappnevola\\reactappnevola.client\\src\\types\\wnioski\\wnioskitabela.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|solutionrelative:reactappnevola.client\\src\\types\\wnioski\\wnioskitabela.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|c:\\visual studio\\nevola\\reactappnevola\\reactappnevola.client\\src\\page\\ogolne\\mojeaktualnoscipage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|solutionrelative:reactappnevola.client\\src\\page\\ogolne\\mojeaktualnoscipage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|c:\\visual studio\\nevola\\reactappnevola\\reactappnevola.client\\src\\types\\wnioski\\wniosekitem.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|solutionrelative:reactappnevola.client\\src\\types\\wnioski\\wniosekitem.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|c:\\visual studio\\nevola\\reactappnevola\\reactappnevola.client\\src\\page\\timer.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|solutionrelative:reactappnevola.client\\src\\page\\timer.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|c:\\visual studio\\nevola\\reactappnevola\\reactappnevola.client\\src\\page\\pracownik\\umowypage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|solutionrelative:reactappnevola.client\\src\\page\\pracownik\\umowypage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|c:\\visual studio\\nevola\\reactappnevola\\reactappnevola.client\\src\\page\\pracownik\\pracownikpage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|solutionrelative:reactappnevola.client\\src\\page\\pracownik\\pracownikpage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|c:\\visual studio\\nevola\\reactappnevola\\reactappnevola.client\\src\\page\\pracownik\\danekadrowepage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|solutionrelative:reactappnevola.client\\src\\page\\pracownik\\danekadrowepage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|c:\\visual studio\\nevola\\reactappnevola\\reactappnevola.client\\src\\page\\pracownik\\danefinansowepage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|solutionrelative:reactappnevola.client\\src\\page\\pracownik\\danefinansowepage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|c:\\visual studio\\nevola\\reactappnevola\\reactappnevola.client\\src\\page\\pracownik\\czaspracypage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|solutionrelative:reactappnevola.client\\src\\page\\pracownik\\czaspracypage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|c:\\visual studio\\nevola\\reactappnevola\\reactappnevola.client\\src\\page\\ogolne\\wnioskipage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|solutionrelative:reactappnevola.client\\src\\page\\ogolne\\wnioskipage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|c:\\visual studio\\nevola\\reactappnevola\\reactappnevola.client\\src\\page\\ogolne\\powiadomieniapage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|solutionrelative:reactappnevola.client\\src\\page\\ogolne\\powiadomieniapage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|c:\\visual studio\\nevola\\reactappnevola\\reactappnevola.client\\src\\page\\ogolne\\paneluzytkownikapage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|solutionrelative:reactappnevola.client\\src\\page\\ogolne\\paneluzytkownikapage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|c:\\visual studio\\nevola\\reactappnevola\\reactappnevola.client\\src\\page\\ogolne\\ogolnepage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|solutionrelative:reactappnevola.client\\src\\page\\ogolne\\ogolnepage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|c:\\visual studio\\nevola\\reactappnevola\\reactappnevola.client\\src\\page\\ogolne\\mojezastepstwapage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|solutionrelative:reactappnevola.client\\src\\page\\ogolne\\mojezastepstwapage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|c:\\visual studio\\nevola\\reactappnevola\\reactappnevola.client\\src\\layout\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|solutionrelative:reactappnevola.client\\src\\layout\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|c:\\visual studio\\nevola\\reactappnevola\\reactappnevola.client\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|solutionrelative:reactappnevola.client\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|c:\\visual studio\\nevola\\reactappnevola\\reactappnevola.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|solutionrelative:reactappnevola.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|c:\\visual studio\\nevola\\reactappnevola\\reactappnevola.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|solutionrelative:reactappnevola.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|c:\\visual studio\\nevola\\reactappnevola\\reactappnevola.client\\src\\types\\wnioski\\wniosek.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|solutionrelative:reactappnevola.client\\src\\types\\wnioski\\wniosek.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|c:\\visual studio\\nevola\\reactappnevola\\reactappnevola.client\\src\\types\\powiadomienia\\powiadomienieitem.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|solutionrelative:reactappnevola.client\\src\\types\\powiadomienia\\powiadomienieitem.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|c:\\visual studio\\nevola\\reactappnevola\\reactappnevola.client\\src\\types\\powiadomienia\\powiadomieniatabela.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|solutionrelative:reactappnevola.client\\src\\types\\powiadomienia\\powiadomieniatabela.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|c:\\visual studio\\nevola\\reactappnevola\\reactappnevola.client\\src\\types\\powiadomienia\\powiadomienie.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|solutionrelative:reactappnevola.client\\src\\types\\powiadomienia\\powiadomienie.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|c:\\visual studio\\nevola\\reactappnevola\\reactappnevola.client\\src\\types\\mojeaktualnosci\\mojeaktualnoscitabela.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|solutionrelative:reactappnevola.client\\src\\types\\mojeaktualnosci\\mojeaktualnoscitabela.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|c:\\visual studio\\nevola\\reactappnevola\\reactappnevola.client\\src\\types\\mojeaktualnosci\\mojaaktualnosc.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|solutionrelative:reactappnevola.client\\src\\types\\mojeaktualnosci\\mojaaktualnosc.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|c:\\visual studio\\nevola\\reactappnevola\\reactappnevola.client\\src\\types\\mojeaktualnosci\\mojaaktualnoscitem.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D5AD8ACD-D9CB-4D07-A41B-E0F9F6D37194}|reactappnevola.client\\reactappnevola.client.esproj|solutionrelative:reactappnevola.client\\src\\types\\mojeaktualnosci\\mojaaktualnoscitem.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\App.tsx",
+              "RelativeDocumentMoniker": "reactappnevola.client\\src\\App.tsx",
+              "ToolTip": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\App.tsx",
+              "RelativeToolTip": "reactappnevola.client\\src\\App.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-16T14:06:51.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WniosekItem.tsx",
+              "DocumentMoniker": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\types\\Wnioski\\WniosekItem.tsx",
+              "RelativeDocumentMoniker": "reactappnevola.client\\src\\types\\Wnioski\\WniosekItem.tsx",
+              "ToolTip": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\types\\Wnioski\\WniosekItem.tsx",
+              "RelativeToolTip": "reactappnevola.client\\src\\types\\Wnioski\\WniosekItem.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-06T19:11:41.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MojeAktualnosciPage.tsx",
+              "DocumentMoniker": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\page\\ogolne\\MojeAktualnosciPage.tsx",
+              "RelativeDocumentMoniker": "reactappnevola.client\\src\\page\\ogolne\\MojeAktualnosciPage.tsx",
+              "ToolTip": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\page\\ogolne\\MojeAktualnosciPage.tsx",
+              "RelativeToolTip": "reactappnevola.client\\src\\page\\ogolne\\MojeAktualnosciPage.tsx",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAAAHYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-16T13:56:30.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WnioskiTabela.tsx",
+              "DocumentMoniker": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\types\\Wnioski\\WnioskiTabela.tsx",
+              "RelativeDocumentMoniker": "reactappnevola.client\\src\\types\\Wnioski\\WnioskiTabela.tsx",
+              "ToolTip": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\types\\Wnioski\\WnioskiTabela.tsx",
+              "RelativeToolTip": "reactappnevola.client\\src\\types\\Wnioski\\WnioskiTabela.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-06T19:11:42.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Timer.tsx",
+              "DocumentMoniker": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\page\\Timer.tsx",
+              "RelativeDocumentMoniker": "reactappnevola.client\\src\\page\\Timer.tsx",
+              "ToolTip": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\page\\Timer.tsx",
+              "RelativeToolTip": "reactappnevola.client\\src\\page\\Timer.tsx",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-07T17:17:45.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogowaniePage.tsx",
+              "DocumentMoniker": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\page\\LogowaniePage.tsx",
+              "RelativeDocumentMoniker": "reactappnevola.client\\src\\page\\LogowaniePage.tsx",
+              "ToolTip": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\page\\LogowaniePage.tsx",
+              "RelativeToolTip": "reactappnevola.client\\src\\page\\LogowaniePage.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-07T17:17:43.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UmowyPage.tsx",
+              "DocumentMoniker": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\page\\pracownik\\UmowyPage.tsx",
+              "RelativeDocumentMoniker": "reactappnevola.client\\src\\page\\pracownik\\UmowyPage.tsx",
+              "ToolTip": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\page\\pracownik\\UmowyPage.tsx",
+              "RelativeToolTip": "reactappnevola.client\\src\\page\\pracownik\\UmowyPage.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-07T17:17:42.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PracownikPage.tsx",
+              "DocumentMoniker": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\page\\pracownik\\PracownikPage.tsx",
+              "RelativeDocumentMoniker": "reactappnevola.client\\src\\page\\pracownik\\PracownikPage.tsx",
+              "ToolTip": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\page\\pracownik\\PracownikPage.tsx",
+              "RelativeToolTip": "reactappnevola.client\\src\\page\\pracownik\\PracownikPage.tsx",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-07T17:17:38.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DaneKadrowePage.tsx",
+              "DocumentMoniker": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\page\\pracownik\\DaneKadrowePage.tsx",
+              "RelativeDocumentMoniker": "reactappnevola.client\\src\\page\\pracownik\\DaneKadrowePage.tsx",
+              "ToolTip": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\page\\pracownik\\DaneKadrowePage.tsx",
+              "RelativeToolTip": "reactappnevola.client\\src\\page\\pracownik\\DaneKadrowePage.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-07T17:17:32.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DaneFinansowePage.tsx",
+              "DocumentMoniker": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\page\\pracownik\\DaneFinansowePage.tsx",
+              "RelativeDocumentMoniker": "reactappnevola.client\\src\\page\\pracownik\\DaneFinansowePage.tsx",
+              "ToolTip": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\page\\pracownik\\DaneFinansowePage.tsx",
+              "RelativeToolTip": "reactappnevola.client\\src\\page\\pracownik\\DaneFinansowePage.tsx",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-07T17:17:29.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CzasPracyPage.tsx",
+              "DocumentMoniker": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\page\\pracownik\\CzasPracyPage.tsx",
+              "RelativeDocumentMoniker": "reactappnevola.client\\src\\page\\pracownik\\CzasPracyPage.tsx",
+              "ToolTip": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\page\\pracownik\\CzasPracyPage.tsx",
+              "RelativeToolTip": "reactappnevola.client\\src\\page\\pracownik\\CzasPracyPage.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-07T17:17:25.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WnioskiPage.tsx",
+              "DocumentMoniker": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\page\\ogolne\\WnioskiPage.tsx",
+              "RelativeDocumentMoniker": "reactappnevola.client\\src\\page\\ogolne\\WnioskiPage.tsx",
+              "ToolTip": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\page\\ogolne\\WnioskiPage.tsx",
+              "RelativeToolTip": "reactappnevola.client\\src\\page\\ogolne\\WnioskiPage.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-07T17:17:19.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OgolnePage.tsx",
+              "DocumentMoniker": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\page\\ogolne\\OgolnePage.tsx",
+              "RelativeDocumentMoniker": "reactappnevola.client\\src\\page\\ogolne\\OgolnePage.tsx",
+              "ToolTip": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\page\\ogolne\\OgolnePage.tsx",
+              "RelativeToolTip": "reactappnevola.client\\src\\page\\ogolne\\OgolnePage.tsx",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-06T19:27:22.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PanelUzytkownikaPage.tsx",
+              "DocumentMoniker": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\page\\ogolne\\PanelUzytkownikaPage.tsx",
+              "RelativeDocumentMoniker": "reactappnevola.client\\src\\page\\ogolne\\PanelUzytkownikaPage.tsx",
+              "ToolTip": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\page\\ogolne\\PanelUzytkownikaPage.tsx",
+              "RelativeToolTip": "reactappnevola.client\\src\\page\\ogolne\\PanelUzytkownikaPage.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-06T18:07:03.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PowiadomieniaPage.tsx",
+              "DocumentMoniker": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\page\\ogolne\\PowiadomieniaPage.tsx",
+              "RelativeDocumentMoniker": "reactappnevola.client\\src\\page\\ogolne\\PowiadomieniaPage.tsx",
+              "ToolTip": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\page\\ogolne\\PowiadomieniaPage.tsx",
+              "RelativeToolTip": "reactappnevola.client\\src\\page\\ogolne\\PowiadomieniaPage.tsx",
+              "ViewState": "AQIAALgAAAAAAAAAAAAiwM8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-16T14:13:41.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MojeZastepstwaPage.tsx",
+              "DocumentMoniker": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\page\\ogolne\\MojeZastepstwaPage.tsx",
+              "RelativeDocumentMoniker": "reactappnevola.client\\src\\page\\ogolne\\MojeZastepstwaPage.tsx",
+              "ToolTip": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\page\\ogolne\\MojeZastepstwaPage.tsx",
+              "RelativeToolTip": "reactappnevola.client\\src\\page\\ogolne\\MojeZastepstwaPage.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-16T14:02:42.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Layout.tsx",
+              "DocumentMoniker": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\layout\\Layout.tsx",
+              "RelativeDocumentMoniker": "reactappnevola.client\\src\\layout\\Layout.tsx",
+              "ToolTip": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\layout\\Layout.tsx",
+              "RelativeToolTip": "reactappnevola.client\\src\\layout\\Layout.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-06T19:23:54.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "main.tsx",
+              "DocumentMoniker": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\main.tsx",
+              "RelativeDocumentMoniker": "reactappnevola.client\\src\\main.tsx",
+              "ToolTip": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\main.tsx",
+              "RelativeToolTip": "reactappnevola.client\\src\\main.tsx",
+              "ViewState": "AQIAACkAAAAAAAAAAAAiwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-06T18:06:42.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\App.css",
+              "RelativeDocumentMoniker": "reactappnevola.client\\src\\App.css",
+              "ToolTip": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\App.css",
+              "RelativeToolTip": "reactappnevola.client\\src\\App.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-06T19:11:43.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\index.css",
+              "RelativeDocumentMoniker": "reactappnevola.client\\src\\index.css",
+              "ToolTip": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\index.css",
+              "RelativeToolTip": "reactappnevola.client\\src\\index.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-06T19:11:45.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Wniosek.ts",
+              "DocumentMoniker": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\types\\Wnioski\\Wniosek.ts",
+              "RelativeDocumentMoniker": "reactappnevola.client\\src\\types\\Wnioski\\Wniosek.ts",
+              "ToolTip": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\types\\Wnioski\\Wniosek.ts",
+              "RelativeToolTip": "reactappnevola.client\\src\\types\\Wnioski\\Wniosek.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-06T19:11:40.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PowiadomienieItem.tsx",
+              "DocumentMoniker": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\types\\Powiadomienia\\PowiadomienieItem.tsx",
+              "RelativeDocumentMoniker": "reactappnevola.client\\src\\types\\Powiadomienia\\PowiadomienieItem.tsx",
+              "ToolTip": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\types\\Powiadomienia\\PowiadomienieItem.tsx",
+              "RelativeToolTip": "reactappnevola.client\\src\\types\\Powiadomienia\\PowiadomienieItem.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-06T19:11:39.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PowiadomieniaTabela.tsx",
+              "DocumentMoniker": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\types\\Powiadomienia\\PowiadomieniaTabela.tsx",
+              "RelativeDocumentMoniker": "reactappnevola.client\\src\\types\\Powiadomienia\\PowiadomieniaTabela.tsx",
+              "ToolTip": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\types\\Powiadomienia\\PowiadomieniaTabela.tsx",
+              "RelativeToolTip": "reactappnevola.client\\src\\types\\Powiadomienia\\PowiadomieniaTabela.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-06T19:11:38.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Powiadomienie.ts",
+              "DocumentMoniker": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\types\\Powiadomienia\\Powiadomienie.ts",
+              "RelativeDocumentMoniker": "reactappnevola.client\\src\\types\\Powiadomienia\\Powiadomienie.ts",
+              "ToolTip": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\types\\Powiadomienia\\Powiadomienie.ts",
+              "RelativeToolTip": "reactappnevola.client\\src\\types\\Powiadomienia\\Powiadomienie.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-06T19:11:37.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MojaAktualnosc.ts",
+              "DocumentMoniker": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\types\\MojeAktualnosci\\MojaAktualnosc.ts",
+              "RelativeDocumentMoniker": "reactappnevola.client\\src\\types\\MojeAktualnosci\\MojaAktualnosc.ts",
+              "ToolTip": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\types\\MojeAktualnosci\\MojaAktualnosc.ts",
+              "RelativeToolTip": "reactappnevola.client\\src\\types\\MojeAktualnosci\\MojaAktualnosc.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-16T15:05:20.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MojeAktualnosciTabela.tsx",
+              "DocumentMoniker": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\types\\MojeAktualnosci\\MojeAktualnosciTabela.tsx",
+              "RelativeDocumentMoniker": "reactappnevola.client\\src\\types\\MojeAktualnosci\\MojeAktualnosciTabela.tsx",
+              "ToolTip": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\types\\MojeAktualnosci\\MojeAktualnosciTabela.tsx",
+              "RelativeToolTip": "reactappnevola.client\\src\\types\\MojeAktualnosci\\MojeAktualnosciTabela.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-16T15:05:14.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MojaAktualnoscItem.tsx",
+              "DocumentMoniker": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\types\\MojeAktualnosci\\MojaAktualnoscItem.tsx",
+              "RelativeDocumentMoniker": "reactappnevola.client\\src\\types\\MojeAktualnosci\\MojaAktualnoscItem.tsx",
+              "ToolTip": "C:\\Visual Studio\\NEVOLA\\ReactAppNEVOLA\\reactappnevola.client\\src\\types\\MojeAktualnosci\\MojaAktualnoscItem.tsx",
+              "RelativeToolTip": "reactappnevola.client\\src\\types\\MojeAktualnosci\\MojaAktualnoscItem.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-16T15:05:17.443Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

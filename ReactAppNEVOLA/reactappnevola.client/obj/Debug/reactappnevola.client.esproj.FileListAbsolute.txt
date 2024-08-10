@@ -1,0 +1,1 @@
+C:\Visual Studio\NEVOLA\ReactAppNEVOLA\reactappnevola.client\obj\Debug\reactappnevola.client.esproj.CoreCompileInputs.cache

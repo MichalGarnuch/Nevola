@@ -1,0 +1,38 @@
+﻿#root {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0 auto;
+}
+.logo {
+    width: 135px;
+    height: 95px;
+    margin-right: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: unset;
+}
+
+.app {
+    background-image: url('/image/TloBiznesowe1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh; /* Minimalna wysokość całej strony */
+    background-color: rgb(255, 255, 255, 100.2); /* Dodanie koloru białego z 80% przeźroczystości */
+}
+
+body {
+    height: 100vh;
+}
+.my-card {
+    transition: transform 0.3s; /* Animacja trwa 0.3 sekundy */
+}
+
+    .my-card:hover {
+        transform: scale(1.05); /* Zwiększa rozmiar o 5% */
+    }
+
+

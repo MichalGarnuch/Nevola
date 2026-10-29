@@ -1,0 +1,125 @@
+# Nevola — mapa plików (1/1)
+
+Wykaz śledzonych plików z badanego commita. Liczba wierszy i nazwy deklaracji są wyciągane automatycznie z dostępnej kopii tekstowej; nie oznaczają ręcznej oceny pliku. Brak opisu oznacza, że zawartość nie była analizowana tą metodą (np. plik binarny, zasób lub pominięty plik).
+
+[Wróć do audytu](AUDYT_EDUKACYJNY.md) · [1](AUDYT_MAPA_01.md)
+
+- [LICENSE](LICENSE)
+- [README.md](README.md) — 18 wierszy
+- [ReactAppNEVOLA/.vs/ProjectEvaluation/reactappnevola.metadata.v8.bin](ReactAppNEVOLA/.vs/ProjectEvaluation/reactappnevola.metadata.v8.bin)
+- [ReactAppNEVOLA/.vs/ProjectEvaluation/reactappnevola.projects.v8.bin](ReactAppNEVOLA/.vs/ProjectEvaluation/reactappnevola.projects.v8.bin)
+- [ReactAppNEVOLA/.vs/ProjectEvaluation/reactappnevola.strings.v8.bin](ReactAppNEVOLA/.vs/ProjectEvaluation/reactappnevola.strings.v8.bin)
+- [ReactAppNEVOLA/.vs/ReactAppNEVOLA/DesignTimeBuild/.dtbcache.v2](ReactAppNEVOLA/.vs/ReactAppNEVOLA/DesignTimeBuild/.dtbcache.v2)
+- [ReactAppNEVOLA/.vs/ReactAppNEVOLA/FileContentIndex/0e50d6a3-9dc8-4cb3-ac60-38fde44d403f.vsidx](ReactAppNEVOLA/.vs/ReactAppNEVOLA/FileContentIndex/0e50d6a3-9dc8-4cb3-ac60-38fde44d403f.vsidx)
+- [ReactAppNEVOLA/.vs/ReactAppNEVOLA/FileContentIndex/0f157139-0b96-468f-a332-6e7a854491a4.vsidx](ReactAppNEVOLA/.vs/ReactAppNEVOLA/FileContentIndex/0f157139-0b96-468f-a332-6e7a854491a4.vsidx)
+- [ReactAppNEVOLA/.vs/ReactAppNEVOLA/FileContentIndex/5faf483c-c312-4d8e-bddc-221f50579846.vsidx](ReactAppNEVOLA/.vs/ReactAppNEVOLA/FileContentIndex/5faf483c-c312-4d8e-bddc-221f50579846.vsidx)
+- [ReactAppNEVOLA/.vs/ReactAppNEVOLA/FileContentIndex/69e29116-36d8-48e0-904a-00d009d4663f.vsidx](ReactAppNEVOLA/.vs/ReactAppNEVOLA/FileContentIndex/69e29116-36d8-48e0-904a-00d009d4663f.vsidx)
+- [ReactAppNEVOLA/.vs/ReactAppNEVOLA/FileContentIndex/97cfd950-734e-498a-9df7-45940ef725df.vsidx](ReactAppNEVOLA/.vs/ReactAppNEVOLA/FileContentIndex/97cfd950-734e-498a-9df7-45940ef725df.vsidx)
+- [ReactAppNEVOLA/.vs/ReactAppNEVOLA/config/applicationhost.config](ReactAppNEVOLA/.vs/ReactAppNEVOLA/config/applicationhost.config)
+- [ReactAppNEVOLA/.vs/ReactAppNEVOLA/v17/.futdcache.v2](ReactAppNEVOLA/.vs/ReactAppNEVOLA/v17/.futdcache.v2)
+- [ReactAppNEVOLA/.vs/ReactAppNEVOLA/v17/.suo](ReactAppNEVOLA/.vs/ReactAppNEVOLA/v17/.suo)
+- [ReactAppNEVOLA/.vs/ReactAppNEVOLA/v17/DocumentLayout.json](ReactAppNEVOLA/.vs/ReactAppNEVOLA/v17/DocumentLayout.json)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/Controllers/WeatherForecastController.cs](ReactAppNEVOLA/ReactAppNEVOLA.Server/Controllers/WeatherForecastController.cs) — 33 wierszy; deklaracje: `WeatherForecastController:7`
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/Program.cs](ReactAppNEVOLA/ReactAppNEVOLA.Server/Program.cs) — 30 wierszy
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/Properties/launchSettings.json](ReactAppNEVOLA/ReactAppNEVOLA.Server/Properties/launchSettings.json) — 45 wierszy
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/ReactAppNEVOLA.Server.csproj](ReactAppNEVOLA/ReactAppNEVOLA.Server/ReactAppNEVOLA.Server.csproj) — 25 wierszy
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/ReactAppNEVOLA.Server.csproj.user](ReactAppNEVOLA/ReactAppNEVOLA.Server/ReactAppNEVOLA.Server.csproj.user)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/ReactAppNEVOLA.Server.http](ReactAppNEVOLA/ReactAppNEVOLA.Server/ReactAppNEVOLA.Server.http)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/WeatherForecast.cs](ReactAppNEVOLA/ReactAppNEVOLA.Server/WeatherForecast.cs) — 13 wierszy; deklaracje: `WeatherForecast:3`
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/appsettings.Development.json](ReactAppNEVOLA/ReactAppNEVOLA.Server/appsettings.Development.json) — 8 wierszy
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/appsettings.json](ReactAppNEVOLA/ReactAppNEVOLA.Server/appsettings.json) — 9 wierszy
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/bin/Debug/net8.0/Microsoft.AspNetCore.SpaProxy.dll](ReactAppNEVOLA/ReactAppNEVOLA.Server/bin/Debug/net8.0/Microsoft.AspNetCore.SpaProxy.dll)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/bin/Debug/net8.0/Microsoft.OpenApi.dll](ReactAppNEVOLA/ReactAppNEVOLA.Server/bin/Debug/net8.0/Microsoft.OpenApi.dll)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/bin/Debug/net8.0/ReactAppNEVOLA.Server.deps.json](ReactAppNEVOLA/ReactAppNEVOLA.Server/bin/Debug/net8.0/ReactAppNEVOLA.Server.deps.json)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/bin/Debug/net8.0/ReactAppNEVOLA.Server.dll](ReactAppNEVOLA/ReactAppNEVOLA.Server/bin/Debug/net8.0/ReactAppNEVOLA.Server.dll)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/bin/Debug/net8.0/ReactAppNEVOLA.Server.exe](ReactAppNEVOLA/ReactAppNEVOLA.Server/bin/Debug/net8.0/ReactAppNEVOLA.Server.exe)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/bin/Debug/net8.0/ReactAppNEVOLA.Server.pdb](ReactAppNEVOLA/ReactAppNEVOLA.Server/bin/Debug/net8.0/ReactAppNEVOLA.Server.pdb)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/bin/Debug/net8.0/ReactAppNEVOLA.Server.runtimeconfig.json](ReactAppNEVOLA/ReactAppNEVOLA.Server/bin/Debug/net8.0/ReactAppNEVOLA.Server.runtimeconfig.json)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll](ReactAppNEVOLA/ReactAppNEVOLA.Server/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll](ReactAppNEVOLA/ReactAppNEVOLA.Server/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll](ReactAppNEVOLA/ReactAppNEVOLA.Server/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/bin/Debug/net8.0/appsettings.Development.json](ReactAppNEVOLA/ReactAppNEVOLA.Server/bin/Debug/net8.0/appsettings.Development.json)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/bin/Debug/net8.0/appsettings.json](ReactAppNEVOLA/ReactAppNEVOLA.Server/bin/Debug/net8.0/appsettings.json)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/bin/Debug/net8.0/spa.proxy.json](ReactAppNEVOLA/ReactAppNEVOLA.Server/bin/Debug/net8.0/spa.proxy.json)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs](ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/.NETCoreApp%2CVersion%3Dv8.0.AssemblyAttributes.cs)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/ReactApp.3FE75AE0.Up2Date](ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/ReactApp.3FE75AE0.Up2Date)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/ReactAppNEVOLA.Server.AssemblyInfo.cs](ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/ReactAppNEVOLA.Server.AssemblyInfo.cs)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/ReactAppNEVOLA.Server.AssemblyInfoInputs.cache](ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/ReactAppNEVOLA.Server.AssemblyInfoInputs.cache)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/ReactAppNEVOLA.Server.GeneratedMSBuildEditorConfig.editorconfig](ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/ReactAppNEVOLA.Server.GeneratedMSBuildEditorConfig.editorconfig)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/ReactAppNEVOLA.Server.GlobalUsings.g.cs](ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/ReactAppNEVOLA.Server.GlobalUsings.g.cs)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/ReactAppNEVOLA.Server.MvcApplicationPartsAssemblyInfo.cache](ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/ReactAppNEVOLA.Server.MvcApplicationPartsAssemblyInfo.cache)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/ReactAppNEVOLA.Server.MvcApplicationPartsAssemblyInfo.cs](ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/ReactAppNEVOLA.Server.MvcApplicationPartsAssemblyInfo.cs)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/ReactAppNEVOLA.Server.assets.cache](ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/ReactAppNEVOLA.Server.assets.cache)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/ReactAppNEVOLA.Server.csproj.AssemblyReference.cache](ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/ReactAppNEVOLA.Server.csproj.AssemblyReference.cache)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/ReactAppNEVOLA.Server.csproj.BuildWithSkipAnalyzers](ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/ReactAppNEVOLA.Server.csproj.BuildWithSkipAnalyzers)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/ReactAppNEVOLA.Server.csproj.CoreCompileInputs.cache](ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/ReactAppNEVOLA.Server.csproj.CoreCompileInputs.cache)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/ReactAppNEVOLA.Server.csproj.FileListAbsolute.txt](ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/ReactAppNEVOLA.Server.csproj.FileListAbsolute.txt)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/ReactAppNEVOLA.Server.dll](ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/ReactAppNEVOLA.Server.dll)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/ReactAppNEVOLA.Server.genruntimeconfig.cache](ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/ReactAppNEVOLA.Server.genruntimeconfig.cache)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/ReactAppNEVOLA.Server.pdb](ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/ReactAppNEVOLA.Server.pdb)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/apphost.exe](ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/apphost.exe)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/ref/ReactAppNEVOLA.Server.dll](ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/ref/ReactAppNEVOLA.Server.dll)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/refint/ReactAppNEVOLA.Server.dll](ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/refint/ReactAppNEVOLA.Server.dll)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/spa.proxy.json](ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/spa.proxy.json)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/staticwebassets.build.json](ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/staticwebassets.build.json)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/staticwebassets/msbuild.build.ReactAppNEVOLA.Server.props](ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/staticwebassets/msbuild.build.ReactAppNEVOLA.Server.props)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ReactAppNEVOLA.Server.props](ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ReactAppNEVOLA.Server.props)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ReactAppNEVOLA.Server.props](ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ReactAppNEVOLA.Server.props)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/ReactAppNEVOLA.Server.csproj.nuget.dgspec.json](ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/ReactAppNEVOLA.Server.csproj.nuget.dgspec.json)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/ReactAppNEVOLA.Server.csproj.nuget.g.props](ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/ReactAppNEVOLA.Server.csproj.nuget.g.props)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/ReactAppNEVOLA.Server.csproj.nuget.g.targets](ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/ReactAppNEVOLA.Server.csproj.nuget.g.targets)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/project.assets.json](ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/project.assets.json)
+- [ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/project.nuget.cache](ReactAppNEVOLA/ReactAppNEVOLA.Server/obj/project.nuget.cache)
+- [ReactAppNEVOLA/ReactAppNEVOLA.sln](ReactAppNEVOLA/ReactAppNEVOLA.sln)
+- [ReactAppNEVOLA/package-lock.json](ReactAppNEVOLA/package-lock.json) — 6 wierszy
+- [ReactAppNEVOLA/reactappnevola.client/.gitignore](ReactAppNEVOLA/reactappnevola.client/.gitignore)
+- [ReactAppNEVOLA/reactappnevola.client/README.md](ReactAppNEVOLA/reactappnevola.client/README.md) — 8 wierszy
+- [ReactAppNEVOLA/reactappnevola.client/index.html](ReactAppNEVOLA/reactappnevola.client/index.html) — 18 wierszy
+- [ReactAppNEVOLA/reactappnevola.client/nuget.config](ReactAppNEVOLA/reactappnevola.client/nuget.config)
+- [ReactAppNEVOLA/reactappnevola.client/obj/Debug/reactappnevola.client.esproj.CoreCompileInputs.cache](ReactAppNEVOLA/reactappnevola.client/obj/Debug/reactappnevola.client.esproj.CoreCompileInputs.cache)
+- [ReactAppNEVOLA/reactappnevola.client/obj/Debug/reactappnevola.client.esproj.FileListAbsolute.txt](ReactAppNEVOLA/reactappnevola.client/obj/Debug/reactappnevola.client.esproj.FileListAbsolute.txt)
+- [ReactAppNEVOLA/reactappnevola.client/package-lock.json](ReactAppNEVOLA/reactappnevola.client/package-lock.json) — 4756 wierszy
+- [ReactAppNEVOLA/reactappnevola.client/package.json](ReactAppNEVOLA/reactappnevola.client/package.json) — 30 wierszy
+- [ReactAppNEVOLA/reactappnevola.client/public/image/TloBiznesowe1.jpg](ReactAppNEVOLA/reactappnevola.client/public/image/TloBiznesowe1.jpg)
+- [ReactAppNEVOLA/reactappnevola.client/public/image/TloBiznesowe2.jpg](ReactAppNEVOLA/reactappnevola.client/public/image/TloBiznesowe2.jpg)
+- [ReactAppNEVOLA/reactappnevola.client/public/image/TloBiznesowe3.jpg](ReactAppNEVOLA/reactappnevola.client/public/image/TloBiznesowe3.jpg)
+- [ReactAppNEVOLA/reactappnevola.client/public/image/TloBiznesowe4.jpg](ReactAppNEVOLA/reactappnevola.client/public/image/TloBiznesowe4.jpg)
+- [ReactAppNEVOLA/reactappnevola.client/public/image/TloBiznesowe5.jpg](ReactAppNEVOLA/reactappnevola.client/public/image/TloBiznesowe5.jpg)
+- [ReactAppNEVOLA/reactappnevola.client/public/image/TloBiznesowe6.jpg](ReactAppNEVOLA/reactappnevola.client/public/image/TloBiznesowe6.jpg)
+- [ReactAppNEVOLA/reactappnevola.client/public/image/TloBiznesowe7.jpg](ReactAppNEVOLA/reactappnevola.client/public/image/TloBiznesowe7.jpg)
+- [ReactAppNEVOLA/reactappnevola.client/public/image/TloLogowania.jpg](ReactAppNEVOLA/reactappnevola.client/public/image/TloLogowania.jpg)
+- [ReactAppNEVOLA/reactappnevola.client/public/image/nevola.png](ReactAppNEVOLA/reactappnevola.client/public/image/nevola.png)
+- [ReactAppNEVOLA/reactappnevola.client/public/image/nevolaTlo.png](ReactAppNEVOLA/reactappnevola.client/public/image/nevolaTlo.png)
+- [ReactAppNEVOLA/reactappnevola.client/public/vite.svg](ReactAppNEVOLA/reactappnevola.client/public/vite.svg)
+- [ReactAppNEVOLA/reactappnevola.client/reactappnevola.client.esproj](ReactAppNEVOLA/reactappnevola.client/reactappnevola.client.esproj)
+- [ReactAppNEVOLA/reactappnevola.client/src/App.css](ReactAppNEVOLA/reactappnevola.client/src/App.css) — 38 wierszy
+- [ReactAppNEVOLA/reactappnevola.client/src/App.tsx](ReactAppNEVOLA/reactappnevola.client/src/App.tsx) — 132 wierszy; deklaracje: `App:13`
+- [ReactAppNEVOLA/reactappnevola.client/src/assets/react.svg](ReactAppNEVOLA/reactappnevola.client/src/assets/react.svg)
+- [ReactAppNEVOLA/reactappnevola.client/src/index.css](ReactAppNEVOLA/reactappnevola.client/src/index.css) — 0 wierszy
+- [ReactAppNEVOLA/reactappnevola.client/src/layout/Layout.tsx](ReactAppNEVOLA/reactappnevola.client/src/layout/Layout.tsx) — 127 wierszy; deklaracje: `Layout:5`
+- [ReactAppNEVOLA/reactappnevola.client/src/main.tsx](ReactAppNEVOLA/reactappnevola.client/src/main.tsx) — 73 wierszy
+- [ReactAppNEVOLA/reactappnevola.client/src/page/LogowaniePage.tsx](ReactAppNEVOLA/reactappnevola.client/src/page/LogowaniePage.tsx) — 63 wierszy
+- [ReactAppNEVOLA/reactappnevola.client/src/page/Timer.tsx](ReactAppNEVOLA/reactappnevola.client/src/page/Timer.tsx) — 48 wierszy
+- [ReactAppNEVOLA/reactappnevola.client/src/page/ogolne/MojeAktualnosciPage.tsx](ReactAppNEVOLA/reactappnevola.client/src/page/ogolne/MojeAktualnosciPage.tsx) — 216 wierszy
+- [ReactAppNEVOLA/reactappnevola.client/src/page/ogolne/MojeZastepstwaPage.tsx](ReactAppNEVOLA/reactappnevola.client/src/page/ogolne/MojeZastepstwaPage.tsx) — 212 wierszy
+- [ReactAppNEVOLA/reactappnevola.client/src/page/ogolne/OgolnePage.tsx](ReactAppNEVOLA/reactappnevola.client/src/page/ogolne/OgolnePage.tsx) — 169 wierszy
+- [ReactAppNEVOLA/reactappnevola.client/src/page/ogolne/PanelUzytkownikaPage.tsx](ReactAppNEVOLA/reactappnevola.client/src/page/ogolne/PanelUzytkownikaPage.tsx) — 9 wierszy
+- [ReactAppNEVOLA/reactappnevola.client/src/page/ogolne/PowiadomieniaPage.tsx](ReactAppNEVOLA/reactappnevola.client/src/page/ogolne/PowiadomieniaPage.tsx) — 216 wierszy
+- [ReactAppNEVOLA/reactappnevola.client/src/page/ogolne/WnioskiPage.tsx](ReactAppNEVOLA/reactappnevola.client/src/page/ogolne/WnioskiPage.tsx) — 146 wierszy
+- [ReactAppNEVOLA/reactappnevola.client/src/page/pracownik/CzasPracyPage.tsx](ReactAppNEVOLA/reactappnevola.client/src/page/pracownik/CzasPracyPage.tsx) — 121 wierszy
+- [ReactAppNEVOLA/reactappnevola.client/src/page/pracownik/DaneFinansowePage.tsx](ReactAppNEVOLA/reactappnevola.client/src/page/pracownik/DaneFinansowePage.tsx) — 111 wierszy
+- [ReactAppNEVOLA/reactappnevola.client/src/page/pracownik/DaneKadrowePage.tsx](ReactAppNEVOLA/reactappnevola.client/src/page/pracownik/DaneKadrowePage.tsx) — 172 wierszy
+- [ReactAppNEVOLA/reactappnevola.client/src/page/pracownik/PracownikPage.tsx](ReactAppNEVOLA/reactappnevola.client/src/page/pracownik/PracownikPage.tsx) — 134 wierszy
+- [ReactAppNEVOLA/reactappnevola.client/src/page/pracownik/UmowyPage.tsx](ReactAppNEVOLA/reactappnevola.client/src/page/pracownik/UmowyPage.tsx) — 5 wierszy
+- [ReactAppNEVOLA/reactappnevola.client/src/types/MojeAktualnosci/MojaAktualnosc.ts](ReactAppNEVOLA/reactappnevola.client/src/types/MojeAktualnosci/MojaAktualnosc.ts) — 5 wierszy; deklaracje: `MojaAktualnosc:1`
+- [ReactAppNEVOLA/reactappnevola.client/src/types/MojeAktualnosci/MojaAktualnoscItem.tsx](ReactAppNEVOLA/reactappnevola.client/src/types/MojeAktualnosci/MojaAktualnoscItem.tsx) — 16 wierszy; deklaracje: `MojaAktualnoscProps:3`
+- [ReactAppNEVOLA/reactappnevola.client/src/types/MojeAktualnosci/MojeAktualnosciTabela.tsx](ReactAppNEVOLA/reactappnevola.client/src/types/MojeAktualnosci/MojeAktualnosciTabela.tsx) — 28 wierszy; deklaracje: `MojeAktualnosciTabelaProps:5`
+- [ReactAppNEVOLA/reactappnevola.client/src/types/Powiadomienia/PowiadomieniaTabela.tsx](ReactAppNEVOLA/reactappnevola.client/src/types/Powiadomienia/PowiadomieniaTabela.tsx) — 28 wierszy; deklaracje: `PowiadomieniaTabelaProps:5`
+- [ReactAppNEVOLA/reactappnevola.client/src/types/Powiadomienia/Powiadomienie.ts](ReactAppNEVOLA/reactappnevola.client/src/types/Powiadomienia/Powiadomienie.ts) — 5 wierszy; deklaracje: `Powiadomienie:1`
+- [ReactAppNEVOLA/reactappnevola.client/src/types/Powiadomienia/PowiadomienieItem.tsx](ReactAppNEVOLA/reactappnevola.client/src/types/Powiadomienia/PowiadomienieItem.tsx) — 16 wierszy; deklaracje: `PowiadomienieProps:3`
+- [ReactAppNEVOLA/reactappnevola.client/src/types/Wnioski/Wniosek.ts](ReactAppNEVOLA/reactappnevola.client/src/types/Wnioski/Wniosek.ts) — 8 wierszy; deklaracje: `Wniosek:1`
+- [ReactAppNEVOLA/reactappnevola.client/src/types/Wnioski/WniosekItem.tsx](ReactAppNEVOLA/reactappnevola.client/src/types/Wnioski/WniosekItem.tsx) — 19 wierszy; deklaracje: `WniosekProps:3`
+- [ReactAppNEVOLA/reactappnevola.client/src/types/Wnioski/WnioskiTabela.tsx](ReactAppNEVOLA/reactappnevola.client/src/types/Wnioski/WnioskiTabela.tsx) — 31 wierszy; deklaracje: `WnioskiTabelaProps:5`
+- [ReactAppNEVOLA/reactappnevola.client/tsconfig.json](ReactAppNEVOLA/reactappnevola.client/tsconfig.json) — 25 wierszy
+- [ReactAppNEVOLA/reactappnevola.client/tsconfig.node.json](ReactAppNEVOLA/reactappnevola.client/tsconfig.node.json) — 10 wierszy
+- [ReactAppNEVOLA/reactappnevola.client/vite.config.ts](ReactAppNEVOLA/reactappnevola.client/vite.config.ts) — 57 wierszy

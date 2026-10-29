@@ -1,4 +1,4 @@
-import { MojaAktualnosc } from "./MojeAktualnosci"
+import { MojaAktualnosc } from "./MojaAktualnosc"
 
 type MojaAktualnoscProps = {
     MojaAktualnosc: MojaAktualnosc

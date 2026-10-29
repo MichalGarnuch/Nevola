@@ -16,7 +16,9 @@ const certificateName = "reactappnevola.client";
 const certFilePath = path.join(baseFolder, `${certificateName}.pem`);
 const keyFilePath = path.join(baseFolder, `${certificateName}.key`);
 
+function developmentHttps() {
 if (!fs.existsSync(certFilePath) || !fs.existsSync(keyFilePath)) {
+    fs.mkdirSync(baseFolder, { recursive: true });
     if (0 !== child_process.spawnSync('dotnet', [
         'dev-certs',
         'https',
@@ -30,11 +32,14 @@ if (!fs.existsSync(certFilePath) || !fs.existsSync(keyFilePath)) {
     }
 }
 
+return { key: fs.readFileSync(keyFilePath), cert: fs.readFileSync(certFilePath) };
+}
+
 const target = env.ASPNETCORE_HTTPS_PORT ? `https://localhost:${env.ASPNETCORE_HTTPS_PORT}` :
     env.ASPNETCORE_URLS ? env.ASPNETCORE_URLS.split(';')[0] : 'https://localhost:7253';
 
 // https://vitejs.dev/config/
-export default defineConfig({
+export default defineConfig(({ command }) => ({
     plugins: [plugin()],
     resolve: {
         alias: {
@@ -49,9 +54,6 @@ export default defineConfig({
             }
         },
         port: 5173,
-        https: {
-            key: fs.readFileSync(keyFilePath),
-            cert: fs.readFileSync(certFilePath),
-        }
+        https: command === "serve" && env.NEVOLA_DEV_HTTPS === "1" ? developmentHttps() : undefined
     }
-})
+}))

@@ -34,12 +34,12 @@ export const listaMoichAktualnosciPobranaZAPI: MojaAktualnosc[] =
             wazneDo: "19.06.2024",
         },
         {
-            nazwa: "Zaakceptowany e-wniosek o delegacje - Ewa Wiœniewska (1149_0), 20.06.2024",
+            nazwa: "Zaakceptowany e-wniosek o delegacje - Ewa WiÅ›niewska (1149_0), 20.06.2024",
             wazneOd: "19.06.2024",
             wazneDo: "20.06.2024",
         },
         {
-            nazwa: "Niezaakceptowany e-wniosek o prace zdalna - Tomasz Zieliñski (1150_0), 21.06.2024",
+            nazwa: "Niezaakceptowany e-wniosek o prace zdalna - Tomasz ZieliÅ„ski (1150_0), 21.06.2024",
             wazneOd: "20.06.2024",
             wazneDo: "21.06.2024",
         },
@@ -49,7 +49,7 @@ export const listaMoichAktualnosciPobranaZAPI: MojaAktualnosc[] =
             wazneDo: "22.06.2024",
         },
         {
-            nazwa: "Niezaakceptowany e-wniosek o delegacje - Micha³ Wójcik (1152_0), 23.06.2024",
+            nazwa: "Niezaakceptowany e-wniosek o delegacje - MichaÅ‚ WÃ³jcik (1152_0), 23.06.2024",
             wazneOd: "22.06.2024",
             wazneDo: "23.06.2024",
         },
@@ -64,17 +64,17 @@ export const listaMoichAktualnosciPobranaZAPI: MojaAktualnosc[] =
             wazneDo: "25.06.2024",
         },
         {
-            nazwa: "Zaakceptowany e-wniosek o delegacje - Ma³gorzata Adamczyk (1155_0), 26.06.2024",
+            nazwa: "Zaakceptowany e-wniosek o delegacje - MaÅ‚gorzata Adamczyk (1155_0), 26.06.2024",
             wazneOd: "25.06.2024",
             wazneDo: "26.06.2024",
         },
         {
-            nazwa: "Niezaakceptowany e-wniosek o prace zdalna - Pawe³ Michalak (1156_0), 27.06.2024",
+            nazwa: "Niezaakceptowany e-wniosek o prace zdalna - PaweÅ‚ Michalak (1156_0), 27.06.2024",
             wazneOd: "26.06.2024",
             wazneDo: "27.06.2024",
         },
         {
-            nazwa: "Zaakceptowany e-wniosek o urlop - Katarzyna Szymañska (1157_0), 28.06.2024",
+            nazwa: "Zaakceptowany e-wniosek o urlop - Katarzyna SzymaÅ„ska (1157_0), 28.06.2024",
             wazneOd: "27.06.2024",
             wazneDo: "28.06.2024",
         },
@@ -84,7 +84,7 @@ export const listaMoichAktualnosciPobranaZAPI: MojaAktualnosc[] =
             wazneDo: "29.06.2024",
         },
         {
-            nazwa: "Zaakceptowany e-wniosek o prace zdalna - Marta Zaj¹c (1159_0), 30.06.2024",
+            nazwa: "Zaakceptowany e-wniosek o prace zdalna - Marta ZajÄ…c (1159_0), 30.06.2024",
             wazneOd: "29.06.2024",
             wazneDo: "30.06.2024",
         },
@@ -94,7 +94,7 @@ export const listaMoichAktualnosciPobranaZAPI: MojaAktualnosc[] =
             wazneDo: "01.07.2024",
         },
         {
-            nazwa: "Zaakceptowany e-wniosek o delegacje - Magdalena Koz³owska (1161_0), 02.07.2024",
+            nazwa: "Zaakceptowany e-wniosek o delegacje - Magdalena KozÅ‚owska (1161_0), 02.07.2024",
             wazneOd: "01.07.2024",
             wazneDo: "02.07.2024",
         },
@@ -104,12 +104,12 @@ export const listaMoichAktualnosciPobranaZAPI: MojaAktualnosc[] =
             wazneDo: "03.07.2024",
         },
         {
-            nazwa: "Zaakceptowany e-wniosek o urlop - Barbara W³odarczyk (1163_0), 04.07.2024",
+            nazwa: "Zaakceptowany e-wniosek o urlop - Barbara WÅ‚odarczyk (1163_0), 04.07.2024",
             wazneOd: "03.07.2024",
             wazneDo: "04.07.2024",
         },
         {
-            nazwa: "Niezaakceptowany e-wniosek o delegacje - Rafa³ Majewski (1164_0), 05.07.2024",
+            nazwa: "Niezaakceptowany e-wniosek o delegacje - RafaÅ‚ Majewski (1164_0), 05.07.2024",
             wazneOd: "04.07.2024",
             wazneDo: "05.07.2024",
         },
@@ -117,10 +117,10 @@ export const listaMoichAktualnosciPobranaZAPI: MojaAktualnosc[] =
     ];
 
 export const MojeAktualnosci = () => {
-    const [startDate, setStartDate] = useState(null);
-    const [endDate, setEndDate] = useState(null);
+    const [startDate, setStartDate] = useState<Date | null>(null);
+    const [endDate, setEndDate] = useState<Date | null>(null);
     const [listaMoichAktualnosci, setListaMoichAktualnosci] =
-        useState<MojaAktulnosc[]>([]);
+        useState<MojaAktualnosc[]>([]);
 
     useEffect(() => {
         setListaMoichAktualnosci(listaMoichAktualnosciPobranaZAPI);
@@ -150,7 +150,7 @@ export const MojeAktualnosci = () => {
                                                 customInput={<Form.Control type="text" />}
                                             />
                                             <FaCalendarAlt
-                                                onClick={() => document.querySelector('.react-datepicker__input-container input').focus()}
+                                                onClick={(event) => event.currentTarget.parentElement?.querySelector<HTMLInputElement>('input')?.focus()}
                                                 className="ms-2"
                                             />
                                         </div>
@@ -166,7 +166,7 @@ export const MojeAktualnosci = () => {
                                                 customInput={<Form.Control type="text" />}
                                             />
                                             <FaCalendarAlt
-                                                onClick={() => document.querySelectorAll('.react-datepicker__input-container input')[1].focus()}
+                                                onClick={(event) => event.currentTarget.parentElement?.querySelector<HTMLInputElement>('input')?.focus()}
                                                 className="ms-2"
                                             />
                                         </div>

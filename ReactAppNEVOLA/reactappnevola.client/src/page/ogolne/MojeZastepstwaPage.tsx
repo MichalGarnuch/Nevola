@@ -1,12 +1,12 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Form, Row, Col, Container, Table, Accordion } from 'react-bootstrap';
 import DatePicker from 'react-datepicker';
 import { FaCalendarAlt } from 'react-icons/fa';
 import 'react-datepicker/dist/react-datepicker.css';
 
 export const MojeZastepstwa = () => {
-    const [startDate, setStartDate] = useState(null);
-    const [endDate, setEndDate] = useState(null);
+    const [startDate, setStartDate] = useState<Date | null>(null);
+    const [endDate, setEndDate] = useState<Date | null>(null);
 
     return (
         <Container fluid>
@@ -26,7 +26,7 @@ export const MojeZastepstwa = () => {
                                                 customInput={<Form.Control type="text" />}
                                             />
                                             <FaCalendarAlt
-                                                onClick={() => document.querySelector('.react-datepicker__input-container input').focus()}
+                                                onClick={(event) => event.currentTarget.parentElement?.querySelector<HTMLInputElement>('input')?.focus()}
                                                 className="ms-2"
                                             />
                                         </div>
@@ -42,7 +42,7 @@ export const MojeZastepstwa = () => {
                                                 customInput={<Form.Control type="text" />}
                                             />
                                             <FaCalendarAlt
-                                                onClick={() => document.querySelectorAll('.react-datepicker__input-container input')[1].focus()}
+                                                onClick={(event) => event.currentTarget.parentElement?.querySelector<HTMLInputElement>('input')?.focus()}
                                                 className="ms-2"
                                             />
                                         </div>

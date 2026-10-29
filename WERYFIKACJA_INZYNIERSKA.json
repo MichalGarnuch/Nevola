@@ -1,0 +1,23 @@
+{
+  "repository": "Nevola",
+  "branch": "wersja-inzynierska-2026",
+  "base_ref": "main",
+  "base_commit": "53e5ef1269b967f81244dd828f32bb033e7e14ff",
+  "date": "2026-10-29",
+  "checks": [
+    {
+      "command_or_scope": "npm run test:engineering w katalogu klienta",
+      "result": "PASS: 2 testy rzeczywistych komponentów"
+    },
+    {
+      "command_or_scope": "npm run build w katalogu klienta",
+      "result": "PASS: TypeScript i Vite"
+    },
+    {
+      "command_or_scope": "Instalacja zależności i aktualizacja lockfile",
+      "result": "PASS"
+    }
+  ],
+  "limitations": "Nie uruchomiono backendu ASP.NET ani przeglądarki. Brak prawdziwego logowania i API jest jawnie pokazany w demo. Nie potwierdzono funkcjonalności wszystkich filtrów, timerów i formularzy. SSR test MemoryRouter emituje ostrzeżenie useLayoutEffect, bez błędu testu.",
+  "production_deployment_performed": false
+}

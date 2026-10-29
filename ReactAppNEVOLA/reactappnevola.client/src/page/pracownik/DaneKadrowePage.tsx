@@ -20,19 +20,19 @@ export const DaneKadrowe = () => {
                         defaultActiveKey="daneOsobowe"
                         className="mb-3 custom-tabs"
                     >
-                        <Tab sm={2} eventKey="daneOsobowe" title={<span style={{ color: 'white' }}>Dane osobowe</span>}>
+                        <Tab eventKey="daneOsobowe" title={<span style={{ color: 'white' }}>Dane osobowe</span>}>
                             <Row>
                                 <h5 className="mb-4 text-white">DANE OSOBOWE</h5>
                                 <Col sm={2}>
                                     <Form.Group className="mb-3 text-white">
                                         <Form.Label>Imie</Form.Label>
-                                        <Form.Control sm={2} type="text" placeholder="Michal" />
+                                        <Form.Control type="text" placeholder="Michal" />
                                     </Form.Group>
                                 </Col>
                                 <Col sm={2}>
                                     <Form.Group className="mb-3 text-white">
                                         <Form.Label>Drugie imie</Form.Label>
-                                        <Form.Control sm={2} type="text" placeholder="Piotr" />
+                                        <Form.Control type="text" placeholder="Piotr" />
                                     </Form.Group>
                                 </Col>
                                 <Col sm={2}>
@@ -64,13 +64,13 @@ export const DaneKadrowe = () => {
                                 <Col sm={2}>
                                     <Form.Group className="mb-3 text-white">
                                         <Form.Label>Kraj</Form.Label>
-                                        <Form.Control sm={2} type="text" placeholder="Polska" />
+                                        <Form.Control type="text" placeholder="Polska" />
                                     </Form.Group>
                                 </Col>
                                 <Col sm={2}>
                                     <Form.Group className="mb-3 text-white">
                                         <Form.Label>Wojewodztwo</Form.Label>
-                                        <Form.Control sm={2} type="text" placeholder="Mazowieckie" />
+                                        <Form.Control type="text" placeholder="Mazowieckie" />
                                     </Form.Group>
                                 </Col>
                              </Row>
@@ -78,7 +78,7 @@ export const DaneKadrowe = () => {
                                 <Col sm={2}>
                                     <Form.Group className="mb-3 text-white">
                                         <Form.Label>Miejscowosc</Form.Label>
-                                        <Form.Control sm={2} type="text" placeholder="Warszawa" />
+                                        <Form.Control type="text" placeholder="Warszawa" />
                                     </Form.Group>
                                 </Col>
                                 <Col sm={2}>
@@ -107,13 +107,13 @@ export const DaneKadrowe = () => {
                                     <Col sm={2}>
                                         <Form.Group className="mb-3 text-white">
                                             <Form.Label>Kraj</Form.Label>
-                                            <Form.Control sm={2} type="text" placeholder="Polska" />
+                                            <Form.Control type="text" placeholder="Polska" />
                                         </Form.Group>
                                     </Col>
                                     <Col sm={2}>
                                         <Form.Group className="mb-3 text-white">
                                             <Form.Label>Wojewodztwo</Form.Label>
-                                            <Form.Control sm={2} type="text" placeholder="Mazowieckie" />
+                                            <Form.Control type="text" placeholder="Mazowieckie" />
                                         </Form.Group>
                                     </Col>
                                 </Row>
@@ -121,7 +121,7 @@ export const DaneKadrowe = () => {
                                     <Col sm={2}>
                                         <Form.Group className="mb-3 text-white">
                                             <Form.Label>Miejscowosc</Form.Label>
-                                            <Form.Control sm={2} type="text" placeholder="Warszawa" />
+                                            <Form.Control type="text" placeholder="Warszawa" />
                                         </Form.Group>
                                     </Col>
                                     <Col sm={2}>
@@ -166,7 +166,7 @@ export const DaneKadrowe = () => {
                     </Tabs>
                 </Row>
             </Form>
-             {/* Sekcja wyœwietlaj¹ca czas pracy pracownika z aplikacji  <div> Tutaj strona z danymi kadrowymi </div>*/}
+             {/* Sekcja wyÅ›wietlajÄ…ca czas pracy pracownika z aplikacji  <div> Tutaj strona z danymi kadrowymi </div>*/}
         </Container>
     )
 }

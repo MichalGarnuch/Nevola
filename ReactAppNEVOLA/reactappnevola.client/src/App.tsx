@@ -1,4 +1,3 @@
-import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { Row, Col, Card, Container } from 'react-bootstrap';
 import './App.css';
@@ -11,14 +10,12 @@ import { listaPowiadomienPobranaZAPI } from './page/ogolne/PowiadomieniaPage';
 import { listaWnioskowPobranaZAPI } from './page/ogolne/WnioskiPage';
 
 function App() {
-    const [startDate, setStartDate] = useState(null);
-    const [endDate, setEndDate] = useState(null);
-    const [listaMoichAktualnosci, setListaMoichAktualnosci] = useState<MojaAktualnosc[]>(listaMoichAktualnosciPobranaZAPI);
-    const [listaPowiadomien, setListaPowiadomien] = useState<Powiadomienie[]>(listaPowiadomienPobranaZAPI);
-    const [listaWnioskow, setListaWnioskow] = useState<Wniosek[]>(listaWnioskowPobranaZAPI);
+    const listaMoichAktualnosci = listaMoichAktualnosciPobranaZAPI;
+    const listaPowiadomien = listaPowiadomienPobranaZAPI;
+    const listaWnioskow = listaWnioskowPobranaZAPI;
 
     const truncateText = (text: string) => {
-        return text.length > 12 ? text.substring(0, 24) + '...' : text;
+        return text.length > 24 ? text.substring(0, 24) + '...' : text;
     }
 
     const listaMoichAktualnosciSkracana = listaMoichAktualnosci.map(item => ({
@@ -56,7 +53,7 @@ function App() {
                                 <Card.Text style={{ width: '100%' }}>
                                     <h4 style={{ width: '100%' }}>Najswiezsze 3 aktualnosci, kliknij aby przejsc dalej </h4>
                                 </Card.Text>
-                                <MojeAktualnosciTabela listaMoichAktualnosci={listaMoichAktualnosci.slice(0, 3)} />
+                                <MojeAktualnosciTabela listaMoichAktualnosci={listaMoichAktualnosciSkracana.slice(0, 3)} />
                             </Card.Body>
                         </Card>
                     </Link>
@@ -106,7 +103,7 @@ function App() {
                                 <Card.Text>
                                     <h4>Najswiezsze 12 wnioskow, kliknij aby przejsc dalej </h4>
                                 </Card.Text>
-                                <PowiadomieniaTabela listaPowiadomien={listaPowiadomien.slice(0, 12)} />
+                                <WnioskiTabela listaWnioskow={listaWnioskowSkracana.slice(0, 12)} />
                             </Card.Body>
                         </Card>
                     </Link>

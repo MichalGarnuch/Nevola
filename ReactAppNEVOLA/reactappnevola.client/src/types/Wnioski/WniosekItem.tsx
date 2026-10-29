@@ -1,4 +1,4 @@
-import { Wniosek } from "./Wnioski"
+import { Wniosek } from "./Wniosek"
 
 type WniosekProps = {
     Wniosek: Wniosek

@@ -12,12 +12,12 @@ export const WnioskiTabela = ({ listaWnioskow }: WnioskiTabelaProps) => {
             <Table striped bordered hover>
                 <thead>
                     <tr>
-                        <td>{Wniosek.numer}</td>
-                        <td>{Wniosek.nazwa}</td>
-                        <td>{Wniosek.okres}</td>
-                        <td>{Wniosek.data}</td>
-                        <td>{Wniosek.odpowiedzialny}</td>
-                        <td>{Wniosek.etap}</td>
+                        <th scope="col">Numer</th>
+                        <th scope="col">Nazwa</th>
+                        <th scope="col">Okres</th>
+                        <th scope="col">Data</th>
+                        <th scope="col">Odpowiedzialny</th>
+                        <th scope="col">Etap</th>
                     </tr>
                 </thead>
                 <tbody>

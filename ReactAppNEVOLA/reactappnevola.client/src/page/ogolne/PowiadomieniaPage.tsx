@@ -1,4 +1,4 @@
-import React, { useState, useEffect} from 'react';
+import { useState, useEffect} from 'react';
 import Form from 'react-bootstrap/Form';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
@@ -118,8 +118,8 @@ export const listaPowiadomienPobranaZAPI: Powiadomienie[] =
     ];
 
 export const Powiadomienia = () => {
-    const [startDate, setStartDate] = useState(null);
-    const [endDate, setEndDate] = useState(null);
+    const [startDate, setStartDate] = useState<Date | null>(null);
+    const [endDate, setEndDate] = useState<Date | null>(null);
     const [listaPowiadomien, setListaPowiadomien] = useState<Powiadomienie[]>([]);
 
     useEffect(() => {
@@ -150,7 +150,7 @@ export const Powiadomienia = () => {
                                                 customInput={<Form.Control type="text" />}
                                             />
                                             <FaCalendarAlt
-                                                onClick={() => document.querySelector('.react-datepicker__input-container input').focus()}
+                                                onClick={(event) => event.currentTarget.parentElement?.querySelector<HTMLInputElement>('input')?.focus()}
                                                 className="ms-2"
                                             />
                                         </div>
@@ -166,7 +166,7 @@ export const Powiadomienia = () => {
                                                 customInput={<Form.Control type="text" />}
                                             />
                                             <FaCalendarAlt
-                                                onClick={() => document.querySelectorAll('.react-datepicker__input-container input')[1].focus()}
+                                                onClick={(event) => event.currentTarget.parentElement?.querySelector<HTMLInputElement>('input')?.focus()}
                                                 className="ms-2"
                                             />
                                         </div>

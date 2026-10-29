@@ -1,13 +1,13 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 
 export const Timer = () => {
     const [startTime, setStartTime] = useState<number | null>(null);
     const [isOverEightHours, setIsOverEightHours] = useState(false);
 
-    const monthlySalary = 20000; // Miesiêczne wynagrodzenie netto
-    const monthlyHours = 168; // Liczba godzin pracy w miesi¹cu
+    const monthlySalary = 20000; // MiesiÄ™czne wynagrodzenie netto
+    const monthlyHours = 168; // Liczba godzin pracy w miesiÄ…cu
 
-    // Zarobek na sekundê
+    // Zarobek na sekundÄ™
     const salaryPerSecond = monthlySalary / (monthlyHours * 60 * 60);
 
     useEffect(() => {
